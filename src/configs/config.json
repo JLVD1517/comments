@@ -1,0 +1,10 @@
+{
+    "NODE_PORT": 5005,
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "Vamshi22",
+        "database": "rentomojo",
+        "connection_limit": 10
+    }
+}
